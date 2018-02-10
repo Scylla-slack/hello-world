@@ -2,4 +2,4 @@
 First git
 
 
-just did this thing
+just changed this thing and used the command line to commit
